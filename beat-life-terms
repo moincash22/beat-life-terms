@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <title>Datenschutzerklärung – Beat Life Bot</title>
+</head>
+<body style="font-family:sans-serif; max-width:800px; margin:auto; padding:40px; line-height:1.6;">
+  <h1>Datenschutzerklärung für den Beat Life Discord-Bot</h1>
+  <p>Wir nehmen den Schutz deiner Daten ernst. Diese Erklärung informiert dich, welche Daten wir sammeln und wie wir sie verwenden.</p>
+
+  <h2>1. Erhobene Daten</h2>
+  <p>Der Bot verarbeitet Daten wie Discord-Benutzer-IDs, Nachrichteninhalte, Join- und Leave-Zeiten, um Funktionen wie Logs, Spiele und Interaktionen zu ermöglichen.</p>
+
+  <h2>2. Zweck der Datenverarbeitung</h2>
+  <p>Die Daten werden ausschließlich zur Funktionalität des Bots verwendet und nicht an Dritte weitergegeben.</p>
+
+  <h2>3. Datensicherheit</h2>
+  <p>Wir treffen angemessene Maßnahmen, um deine Daten zu schützen.</p>
+
+  <h2>4. Änderungen der Datenschutzerklärung</h2>
+  <p>Diese Datenschutzerklärung kann jederzeit aktualisiert werden. Änderungen gelten ab Veröffentlichung.</p>
+
+  <hr />
+  <p>Letzte Aktualisierung: 01. August 2025</p>
+</body>
+</html>
